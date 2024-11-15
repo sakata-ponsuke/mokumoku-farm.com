@@ -5,7 +5,7 @@
 **・タイトル**：もくもく農園
 <br>
 
-**・URL**：https://sakata-ponsuke.github.io/mokumoku-farm.com
+**・URL**：https://sakata-ponsuke.github.io/mokumoku-farm.com/
 <br>
 
 **・目的**：農園の紹介、野菜の販売促進、お客様に安全で新鮮な野菜を届けるための信頼構築。
