@@ -56,5 +56,5 @@
 <br>定期購入やカスタマーサポートの充実も課題です。
 
 **・全体図**：
-
+![02画像](https://github.com/user-attachments/assets/f2b17024-a777-4f64-b060-006ce217c40e)
 
